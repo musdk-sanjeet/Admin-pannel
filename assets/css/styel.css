@@ -1,0 +1,4 @@
+div#name {
+    text-transform: capitalize !important;
+    font-size: larger;
+}
